@@ -24,3 +24,11 @@
 
 4. Electron. *Introduction and documentation*.  
    https://www.electronjs.org/docs/latest/
+
+## 3. Refleksi
+
+Platform yang paling menarik untuk saya pelajari adalah platform mobile, khususnya pengembangan aplikasi Android. Saya tertarik mempelajari platform ini karena aplikasi mobile banyak digunakan dalam kehidupan sehari-hari dan dapat membantu mempermudah berbagai aktivitas. Selain itu, saya ingin memahami bagaimana sebuah aplikasi dibuat, dijalankan, dan digunakan pada smartphone.
+
+Tantangan terbesar yang saya hadapi saat menyiapkan lingkungan pengembangan adalah proses instalasi dan konfigurasi perangkat lunak. Saya perlu memasang beberapa tools, seperti Node.js, Android Studio, dan Java Development Kit (JDK). Pada proses tersebut, saya sempat mengalami kebingungan dalam memilih file instalasi, memastikan aplikasi terpasang dengan benar, dan memahami penggunaan Git untuk mengunggah file tugas ke GitHub. Tantangan ini membuat saya menyadari bahwa menyiapkan lingkungan pengembangan membutuhkan ketelitian dan pemahaman terhadap setiap langkah.
+
+Untuk mengatasi tantangan tersebut, saya berencana mempelajari kembali panduan instalasi dari dokumentasi resmi, mengikuti langkah-langkah secara berurutan, dan memeriksa pesan kesalahan apabila terjadi masalah. Saya juga akan lebih sering berlatih menggunakan terminal, Git, dan GitHub agar lebih terbiasa dengan proses pengembangan perangkat lunak. Dengan cara ini, saya berharap dapat meningkatkan kemampuan dan menjadi lebih mandiri dalam menyelesaikan proyek pemrograman berikutnya.
