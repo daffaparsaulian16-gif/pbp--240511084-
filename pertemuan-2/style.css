@@ -76,3 +76,92 @@ footer {
     text-align: center;
     padding: 20px;
 }
+
+/* =================================
+   RESPONSIVE DESIGN - PERTEMUAN 3
+================================= */
+
+/* Untuk tablet dan layar maksimal 1024px */
+@media screen and (max-width: 1024px) {
+    main {
+        width: 90%;
+        padding: 15px;
+    }
+
+    section {
+        padding: 20px;
+    }
+}
+
+/* Untuk HP dan tablet kecil maksimal 768px */
+@media screen and (max-width: 768px) {
+    header {
+        padding: 25px 15px;
+    }
+
+    nav {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 12px;
+    }
+
+    nav a {
+        margin: 5px;
+    }
+
+    main {
+        width: 95%;
+        padding: 10px;
+        margin: 15px auto;
+    }
+
+    section {
+        padding: 18px;
+        margin-bottom: 15px;
+    }
+
+    .keahlian-list {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+}
+
+/* Untuk HP kecil maksimal 480px */
+@media screen and (max-width: 480px) {
+    header {
+        padding: 20px 10px;
+    }
+
+    header h1 {
+        font-size: 24px;
+    }
+
+    nav {
+        gap: 5px;
+    }
+
+    nav a {
+        font-size: 14px;
+        margin: 5px;
+    }
+
+    main {
+        width: 100%;
+        padding: 10px;
+    }
+
+    section {
+        padding: 15px;
+    }
+
+    .profil img {
+        width: 120px;
+        height: 120px;
+    }
+
+    .keahlian-list {
+        grid-template-columns: 1fr;
+    }
+}
+
